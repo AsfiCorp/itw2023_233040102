@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1{
+ color: darkblue;
+ font-family: "Comic Sans MS";
+ font-size: 60px;
+ text-align: center;
+}
+
+h4{ 
+    text-align: right;
+    font-style: italic;
+}
+
+#uhuy{
+    color:azure;
+}
+
+p{
+    text-align: justify;
+
+}
+
+.kiw{
+    text-align: center;
+    color:rgb(255, 178, 83);
+    line-height: 20px;
+}
+
+.wik{
+    text-align: center;
+    line-height: 24px;
+}
